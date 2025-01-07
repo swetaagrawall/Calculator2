@@ -8,7 +8,8 @@ public static void main(String[] args){
    div(4,5);
    mul(4,5);
 
-
-
+}
+public static void mul(int a , int b ){
+    System.out.println(a*b);
 }
 }
